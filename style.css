@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+#app{
+    background-color:aqua;
+}
+
+.line{
+    width: 100px ;
+    height:10px ;
+    background-color:#00a896 ;
+    margin: 10px auto;
+}
+
+#jogo{
+    background-color: aquamarine;
+}
